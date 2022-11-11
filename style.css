@@ -1,0 +1,13 @@
+body {background-color: darkgrey;}
+
+h1 {background-color: firebrick;color: blue; font-size: 35px;
+    text-align: center;
+
+}
+
+h2{background-color: burlywood;color: darkblue;
+    text-align: center;
+}
+
+p {font-size: 20px;
+text-align: justify;}
