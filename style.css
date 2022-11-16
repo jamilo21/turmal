@@ -1,13 +1,39 @@
-body {background-color: darkgrey;}
+body {
+    background-color: grey
+}
 
-h1 {background-color: firebrick;color: blue; font-size: 35px;
+h1 {
+    background-color: rgb(21, 21, 224);
+    color: black;
     text-align: center;
+
 
 }
 
-h2{background-color: burlywood;color: darkblue;
+h2 {
+    background-color: rgb(134, 134, 200);
+    color: black;
+    text-align: center;
+    font-size: 25px;
+
+
+}
+
+h3 {
+    color: black;
+    font-size: 20px;
     text-align: center;
 }
 
-p {font-size: 20px;
-text-align: justify;}
+h4 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+
+}
