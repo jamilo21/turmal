@@ -6,6 +6,9 @@ h1 {
     background-color: rgb(21, 21, 224);
     color: black;
     text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-block: 100px;
 
 
 }
@@ -15,6 +18,9 @@ h2 {
     color: black;
     text-align: center;
     font-size: 25px;
+    padding-top: 50px;
+    padding-block: 50px;
+
 
 
 }
@@ -37,3 +43,35 @@ p {
     text-align: center;
 
 }
+
+img {
+    width: 200px;
+}
+
+.pagina-dedicada {
+    color: red;
+}
+
+.identidade {
+    color: orangered;
+}
+
+#professores {
+    color: pink;
+}
+
+#img {
+    width: 50px;
+}
+
+.conteudo {
+    background-color: blueviolet; border: 10px solid white; marggin-top: 100px;
+    marggin-bottom: 100px;
+}
+
+.lista{
+display: inline-block;
+text-justify: center;
+}
+
+text-transform: {lowercase;}
